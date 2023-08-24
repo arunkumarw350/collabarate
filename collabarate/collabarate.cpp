@@ -5,6 +5,7 @@ int main()
 {
 	int a = 10;
 	int b = 20;
-	int c = a + b;
+	int e=40;
+	int c = a + b+e;
 	cout << c << endl;
 }
